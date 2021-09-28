@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/ksenginew/nanoasgi/discussions
+    about: Please ask and answer questions here.
+  - name: Security
+    url: https://github.com/ksenginew/nanoasgi/security
+    about: Please report security vulnerabilities here.
